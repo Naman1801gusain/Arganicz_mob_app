@@ -2,10 +2,10 @@ import 'package:flutter_sixvalley_ecommerce/localization/models/language_model.d
 import 'package:flutter_sixvalley_ecommerce/utill/images.dart';
 
 class AppConstants {
-  static const String appName = 'Arganicz';
+  static const String appName = 'Organic Hub';
   static const String slogan = 'E-Commerce Marketplace';
   static const String appVersion = '14.5';
-  static const String baseUrl = 'https://arganicz.com';
+  static const String baseUrl = 'https://organichub.company';
   static const String userId = 'userId';
   static const String name = 'name';
   static const String categoriesUri = '/api/v1/categories?guest_id=';

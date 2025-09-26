@@ -29,7 +29,7 @@
             // --- MODIFIED SECTION END ---
 
             const SizedBox(height: 16),
-            Text('Thank you for shopping with Arganicz',
+            Text('Thank you for shopping with Organic Hub',
                 textAlign: TextAlign.center,
                 style: robotoBold.copyWith(fontSize: Dimensions.fontSizeLarge)),
             const SizedBox(height: 8),

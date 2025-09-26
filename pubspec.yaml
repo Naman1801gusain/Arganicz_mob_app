@@ -2,7 +2,7 @@ name: flutter_sixvalley_ecommerce
 description: A Flutter eCommerce application.
 
 publish_to: 'none'
-version: 2.0.10+10
+version: 2.0.15+15
 
 environment:
   sdk: '^3.2.1'

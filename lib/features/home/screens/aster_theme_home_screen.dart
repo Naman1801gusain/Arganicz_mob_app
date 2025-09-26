@@ -234,7 +234,7 @@ class _AsterThemeHomeScreenState extends State<AsterThemeHomeScreen> {
                   backgroundColor: Theme.of(context).highlightColor,
                   title: Padding(
                     padding: const EdgeInsets.only(left: 0),
-                    child: Image.asset(Images.newLogo, height: 85, fit: BoxFit.contain),
+                    child: Image.asset(Images.newLogo, height: 60, fit: BoxFit.contain),
                   ),
                   actions: const [CartHomePageWidget()]),
 

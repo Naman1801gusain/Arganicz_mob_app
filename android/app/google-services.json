@@ -66,6 +66,14 @@
           }
         },
         {
+          "client_id": "721499801239-vuloips5p47oilc5ou2mggjaa65del7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arganicz.userapps",
+            "certificate_hash": "02cfae8e21ef595fccdc32c4c36daf6aa62887c6"
+          }
+        },
+        {
           "client_id": "721499801239-94h4r1e4dvi2fkj664pr72h5lhehjjuv.apps.googleusercontent.com",
           "client_type": 3
         }
